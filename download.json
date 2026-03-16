@@ -1,0 +1,22 @@
+{
+  "app_version": "1.0.0",
+  "telegram": "https://t.me/moskvaroleplay",
+  "discord": "",
+  "vk": "",
+  "donate": "https://moskva-rp.vercel.app/",
+  "servers": [
+    {
+      "id": 1,
+      "name": "Moskva",
+      "ip": "188.127.241.74",
+      "port": 2924,
+      "online": 0,
+      "players": 0,
+      "maxonline": 500,
+      "capacity": 500,
+      "version": "1.0",
+      "x2": false,
+      "server_img": "file:///android_asset/icon_server.png"
+    }
+  ]
+}
